@@ -4,4 +4,4 @@ version=v1
 versionCode=4
 author=UltraM8
 description=Unified solution to untamper GPS setting for Qualcomm devices (and get rid of cn crap for some)
-updateJson=
+updateJson=https://raw.githubusercontent.com/ObyeBoss/UltraM8-s_GPSunfucker/main/update.json
