@@ -1,0 +1,7 @@
+id=gps_unfuck
+name=UltraM8's GPS Unfucker
+version=v1
+versionCode=4
+author=UltraM8
+description=Unified solution to untamper GPS setting for Qualcomm devices (and get rid of cn crap for some)
+updateJson=
